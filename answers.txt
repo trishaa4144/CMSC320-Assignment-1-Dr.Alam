@@ -9,3 +9,10 @@ Answer: Data science can be applied to the business and marketing field by analy
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging combines 2 branches with a merge commit and preserves history, whereas rebasing reapplies commits from one branch onto another.
+
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to learn how to analyze and visualize data, work with different technologies, learn about big data, and how this relates to Machine Learning and AI systems. This would help inform me on knowledge one would want to know for a Data Science or Data Engineering role,
+
+
